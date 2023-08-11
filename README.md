@@ -11,11 +11,12 @@ Dependencies:
 Python 3.8.8
 Jupyter Notebook
 
-# Libraries: numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+# Libraries: 
+1. pandas
+2. matplotlib
+3. seaborn
+4. scikit-learn
+5. numpy
 
 # Setup:
 Clone the repository to your local machine.
