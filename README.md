@@ -21,5 +21,5 @@ Jupyter Notebook
 # Setup:
 Clone the repository to your local machine.
 Navigate to the directory containing the notebook.
-Install the necessary libraries using pip install -r requirements.txt 
+Install the necessary libraries using pip install -r requirements_churn_analysis.txt 
 Launch Jupyter Notebook and open churn_model.ipynb.
